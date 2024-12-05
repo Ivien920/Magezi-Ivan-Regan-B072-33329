@@ -1,0 +1,41 @@
+
+
+section {
+    margin: 20px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: purple; 
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+background-color:gray;
+    background-size :cover;
+    background-position: center;
+    height: 100vh;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer {
+    text-align: center;
+    color: black;  
+    padding: 20px 0;
+    position: relative; 
+    width: 100%;
+    font-size: 1em;
+    background-color: transparent; 
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}
